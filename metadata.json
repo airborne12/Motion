@@ -1,0 +1,5 @@
+{
+  "name": "Copy of X-Sentiment Pulse",
+  "description": "Real-time investment sentiment analysis based on X (Twitter) discussions using Google Search Grounding.",
+  "requestFramePermissions": []
+}
